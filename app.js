@@ -7,7 +7,7 @@ const app = express()
 AWS.config.update({ region: 'us-west-1' });
 
 // Create S3 service object
-var s3 = new AWS.S3({ apiVersion: '2022-02-08' })
+// var s3 = new AWS.S3({ apiVersion: '2022-02-08' })
 
 // s3.listBuckets((err, data) => {
 //     if (err) {
