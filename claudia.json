@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "test-executor",
+    "name": "test",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "mufxa8l3ii"
+  }
+}
